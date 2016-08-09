@@ -40,7 +40,7 @@ Taller III - Aplicaciones Web. (Adriana Arrua Fleitas)
 10. Con que etiqueta se agrega un video en un documento html? Ejemplos.
 	La etiqueta que se utiliza para agregar un video en html es <video>, su estructura es muy similar a la que se emplea con las imagenes,
 	aunque en este caso si lleva la etiqueta de cierre.
-	Ejemplo: <video src = video/fireworks_reducido.webm"<>/video>
+	Ejemplo: <video src = video/fireworks_reducido.webm<>/video>
 
 11. Con que etiqueta se agrega un sonido en un documento html? Ejemplos.
 	Su estructura es sencilla y es la siguiente:
