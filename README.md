@@ -1,5 +1,5 @@
 Taller III - Aplicaciones Web. (Adriana Arrua Fleitas)
-'''html
+```html
 
 1. Que es el servidor?
 	Es un programa que es capaz de atender requisiciones y enviar una respuesta.
@@ -100,4 +100,4 @@ Taller III - Aplicaciones Web. (Adriana Arrua Fleitas)
 	Los repositorios remotos son versiones de un proyecto que se encuentran alojados en Internet o en algún punto de la red. Pueden haber varios, cada uno de los cuales puede ser de sólo lectura, o de lectura/escritura, según los permisos que tengamos. 
 
  Responder y guardar el archivo con el nombre README.md (markdow)
- '''
+ ```
